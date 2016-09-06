@@ -1,0 +1,248 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="viewport" content="initial-scale=1.0"><meta name="format-detection" content="telephone=no">
+	<title>MOSAICO Responsive Email Designer</title>
+	<style type="text/css">table.vb-row.halfpad {border-spacing: 0;padding-left: 9px;padding-right: 9px;}
+table.vb-row.fullwidth {border-spacing: 0;padding: 0;}
+	</style>
+	<style type="text/css">/* yahoo, hotmail */
+    .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div{ line-height: 100%; }
+    .yshortcuts a{ border-bottom: none !important; }
+    .vb-outer{ min-width: 0 !important; }
+    .RMsgBdy, .ExternalClass{
+      width: 100%;
+      background-color: #3f3f3f;
+      background-color: #ffffff}
+
+    /* outlook */
+    table{ mso-table-rspace: 0pt; mso-table-lspace: 0pt; }
+    #outlook a{ padding: 0; }
+    img{ outline: none; text-decoration: none; border: none; -ms-interpolation-mode: bicubic; }
+    a img{ border: none; }
+
+    @media screen and (max-device-width: 600px), screen and (max-width: 600px) {
+      table.vb-container, table.vb-row{
+        width: 95% !important;
+      }
+
+      .mobile-hide{ display: none !important; }
+      .mobile-textcenter{ text-align: center !important; }
+
+      .mobile-full{
+        float: none !important;
+        width: 100% !important;
+        max-width: none !important;
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+      }
+      img.mobile-full{
+        width: 100% !important;
+        max-width: none !important;
+        height: auto !important;
+      }   
+    }
+	</style>
+	<style type="text/css">#ko_socialBlock_9 .links-color a:visited, #ko_socialBlock_9 .links-color a:hover {color: #ccc;color: #ccc;text-decoration: underline;}
+#ko_footerBlock_2 .links-color a:visited, #ko_footerBlock_2 .links-color a:hover {color: #ccc;color: #ccc;text-decoration: underline;}
+#ko_imageBlock_4 a, #ko_imageBlock_4 a:link, #ko_imageBlock_4 a:visited, #ko_imageBlock_4 a:hover {color: #3f3f3f;color: #3f3f3f;text-decoration: underline;}
+#ko_imageBlock_6 a, #ko_imageBlock_6 a:link, #ko_imageBlock_6 a:visited, #ko_imageBlock_6 a:hover {color: #3f3f3f;color: #3f3f3f;text-decoration: underline;}
+#ko_imageBlock_8 a, #ko_imageBlock_8 a:link, #ko_imageBlock_8 a:visited, #ko_imageBlock_8 a:hover {color: #3f3f3f;color: #3f3f3f;text-decoration: underline;}
+	</style>
+</head>
+<body alink="#cccccc" bgcolor="#ffffff" style="margin: 0;padding: 0;background-color: #fff;color: #919191;" text="#919191" vlink="#cccccc">
+<center><!-- preheaderBlock --><!-- /preheaderBlock -->
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="vb-outer" id="ko_logoBlock_3" style="background-color: #ffffff;" width="100%">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#ffffff" class="vb-outer" style="padding-left: 9px;padding-right: 9px;background-color: #fff;" valign="top"><!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="570"><tr><td align="center" valign="top"><![endif]-->
+			<div class="oldwebkit" style="max-width: 570px;">
+			<table border="0" cellpadding="0" cellspacing="18" class="vb-container fullpad" style="border-collapse: separate;border-spacing: 18px;padding-left: 0;padding-right: 0;width: 100%;max-width: 570px;" width="570">
+				<tbody>
+					<tr>
+						<td align="center" valign="top"><!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="258"><tr><td align="center" valign="top"><![endif]-->
+						<div class="mobile-full" style="display: inline-block; max-width: 258px; vertical-align: top; width: 100%;"><img alt="" border="0" hspace="0" src="https://mosaico.io/srv/f-pwl9dio/img?method=placeholder&amp;params=258%2C150" style="border: 0px;display: block;width: 100%;max-width: 258px;" vspace="0" width="258" /></div>
+						<!--[if (gte mso 9)|(lte ie 8)]></td></tr></table><![endif]--></td>
+					</tr>
+				</tbody>
+			</table>
+			</div>
+			<!--[if (gte mso 9)|(lte ie 8)]></td></tr></table><![endif]--></td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="vb-outer" id="ko_imageBlock_4" style="background-color: #ffffff;" width="100%">
+	<tbody>
+		<tr>
+			<td align="center" class="vb-outer" style="padding-left: 9px;padding-right: 9px;" valign="top"><!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="570"><tr><td align="center" valign="top"><![endif]-->
+			<div class="oldwebkit" style="max-width: 570px;">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="vb-container fullwidth" style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width: 570px;background-color: #fff;" width="570">
+				<tbody>
+					<tr>
+						<td align="center" valign="top"><img alt="" border="0" class="mobile-full" hspace="0" src="https://mosaico.io/srv/f-pwl9dio/img?method=placeholder&amp;params=570%2C200" style="border: 0px;border-radius: 0px;display: block;max-width: 570px;width: 100%;height: auto;font-size: 13px;font-family: Arial,Helvetica,sans-serif;color: #3f3f3f;" vspace="0" width="570" /></td>
+					</tr>
+				</tbody>
+			</table>
+			</div>
+			<!--[if (gte mso 9)|(lte ie 8)]></td></tr></table><![endif]--></td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="vb-outer" id="ko_hrBlock_5" style="background-color: #ffffff;" width="100%">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#ffffff" class="vb-outer" style="padding-left: 9px;padding-right: 9px;background-color: #fff;" valign="top"><!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="570"><tr><td align="center" valign="top"><![endif]-->
+			<div class="oldwebkit" style="max-width: 570px;">
+			<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="9" class="vb-container halfpad" style="border-collapse: separate;border-spacing: 9px;padding-left: 9px;padding-right: 9px;width: 100%;max-width: 570px;background-color: #fff;" width="570">
+				<tbody>
+					<tr>
+						<td align="center" bgcolor="#ffffff" style="background-color: #ffffff;" valign="top">
+						<table border="0" cellpadding="0" cellspacing="0" style="width: 100%;" width="100%">
+							<tbody>
+								<tr>
+									<td height="1" style="font-size: 1px; line-height: 1px; width: 100%; background-color: #3f3f3f;" width="100%">&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</div>
+			<!--[if (gte mso 9)|(lte ie 8)]></td></tr></table><![endif]--></td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="vb-outer" id="ko_imageBlock_6" style="background-color: #ffffff;" width="100%">
+	<tbody>
+		<tr>
+			<td align="center" class="vb-outer" style="padding-left: 9px;padding-right: 9px;" valign="top"><!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="570"><tr><td align="center" valign="top"><![endif]-->
+			<div class="oldwebkit" style="max-width: 570px;">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="vb-container fullwidth" style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width: 570px;background-color: #fff;" width="570">
+				<tbody>
+					<tr>
+						<td align="center" valign="top"><img alt="" border="0" class="mobile-full" hspace="0" src="https://mosaico.io/srv/f-pwl9dio/img?method=placeholder&amp;params=570%2C200" style="border: 0px;border-radius: 0px;display: block;max-width: 570px;width: 100%;height: auto;font-size: 13px;font-family: Arial,Helvetica,sans-serif;color: #3f3f3f;" vspace="0" width="570" /></td>
+					</tr>
+				</tbody>
+			</table>
+			</div>
+			<!--[if (gte mso 9)|(lte ie 8)]></td></tr></table><![endif]--></td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="vb-outer" id="ko_hrBlock_7" style="background-color: #ffffff;" width="100%">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#ffffff" class="vb-outer" style="padding-left: 9px;padding-right: 9px;background-color: #fff;" valign="top"><!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="570"><tr><td align="center" valign="top"><![endif]-->
+			<div class="oldwebkit" style="max-width: 570px;">
+			<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="9" class="vb-container halfpad" style="border-collapse: separate;border-spacing: 9px;padding-left: 9px;padding-right: 9px;width: 100%;max-width: 570px;background-color: #fff;" width="570">
+				<tbody>
+					<tr>
+						<td align="center" bgcolor="#ffffff" style="background-color: #ffffff;" valign="top">
+						<table border="0" cellpadding="0" cellspacing="0" style="width: 100%;" width="100%">
+							<tbody>
+								<tr>
+									<td height="1" style="font-size: 1px; line-height: 1px; width: 100%; background-color: #3f3f3f;" width="100%">&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</div>
+			<!--[if (gte mso 9)|(lte ie 8)]></td></tr></table><![endif]--></td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="vb-outer" id="ko_imageBlock_8" style="background-color: #ffffff;" width="100%">
+	<tbody>
+		<tr>
+			<td align="center" class="vb-outer" style="padding-left: 9px;padding-right: 9px;" valign="top"><!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="570"><tr><td align="center" valign="top"><![endif]-->
+			<div class="oldwebkit" style="max-width: 570px;">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="vb-container fullwidth" style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width: 570px;background-color: #fff;" width="570">
+				<tbody>
+					<tr>
+						<td align="center" valign="top"><img alt="" border="0" class="mobile-full" hspace="0" src="https://mosaico.io/srv/f-pwl9dio/img?method=placeholder&amp;params=570%2C200" style="border: 0px;border-radius: 0px;display: block;max-width: 570px;width: 100%;height: auto;font-size: 13px;font-family: Arial,Helvetica,sans-serif;color: #3f3f3f;" vspace="0" width="570" /></td>
+					</tr>
+				</tbody>
+			</table>
+			</div>
+			<!--[if (gte mso 9)|(lte ie 8)]></td></tr></table><![endif]--></td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="ko_socialBlock_9" style="background-color: #ffffff;" width="100%">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#ffffff" style="background-color: #ffffff;" valign="top"><!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="570"><tr><td align="center" valign="top"><![endif]-->
+			<div class="oldwebkit" style="max-width: 570px;">
+			<table align="center" border="0" cellpadding="0" cellspacing="9" class="vb-row fullpad" style="border-collapse: separate;border-spacing: 9px;width: 100%;max-width: 570px;" width="570">
+				<tbody>
+					<tr>
+						<td align="center" style="font-size: 0;" valign="top"><!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="552"><tr><![endif]--><!--[if (gte mso 9)|(lte ie 8)]><td align="left" valign="top" width="276"><![endif]-->
+						<div class="mobile-full" style="display: inline-block; max-width: 276px; vertical-align: top; width: 100%;">
+						<table align="left" border="0" cellpadding="0" cellspacing="9" class="vb-content" style="border-collapse: separate;width: 100%;" width="276">
+							<tbody>
+								<tr>
+									<td align="left" class="long-text links-color mobile-textcenter" style="font-size: 13px; font-family: Arial, Helvetica, sans-serif; color: #919191; text-align: left;" valign="middle">
+									<p style="margin: 1em 0px;margin-bottom: 0px;margin-top: 0px;">Address and <a href="" style="color: #ccc;text-decoration: underline;">Contacts</a></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!--[if (gte mso 9)|(lte ie 8)]></td>
+<td align="left" valign="top" width="276">
+<![endif]-->
+
+						<div class="mobile-full" style="display: inline-block; max-width: 276px; vertical-align: top; width: 100%;">
+						<table align="right" border="0" cellpadding="0" cellspacing="9" class="vb-content" style="border-collapse: separate;width: 100%;" width="276">
+							<tbody>
+								<tr>
+									<td align="right" class="links-color socialLinks mobile-textcenter" style="font-size: 6px;" valign="middle">&nbsp; <a href="" style="display: inline-block;color: #ccc;text-decoration: underline;" target="_new"> <img alt="Facebook" border="0" class="socialIcon" src="https://mosaico.io/templates/versafix-1/img/social_def/facebook_bw_ok.png" style="border: 0px;border-radius: 100%;display: inline-block;vertical-align: top;padding-bottom: 0px;" /></a> &nbsp; <a href="" style="display: inline-block;color: #ccc;text-decoration: underline;" target="_new"> <img alt="Twitter" border="0" class="socialIcon" src="https://mosaico.io/templates/versafix-1/img/social_def/twitter_bw_ok.png" style="border: 0px;border-radius: 100%;display: inline-block;vertical-align: top;padding-bottom: 0px;" /></a> &nbsp; <a href="" style="display: inline-block;color: #ccc;text-decoration: underline;" target="_new"> <img alt="Google+" border="0" class="socialIcon" src="https://mosaico.io/templates/versafix-1/img/social_def/google+_bw_ok.png" style="border: 0px;border-radius: 100%;display: inline-block;vertical-align: top;padding-bottom: 0px;" /></a> &nbsp; <a href="" style="display: inline-block;color: #ccc;text-decoration: underline;" target="_new"> <img alt="Web" border="0" class="socialIcon" src="https://mosaico.io/templates/versafix-1/img/social_def/web_bw_ok.png" style="border: 0px;border-radius: 100%;display: inline-block;vertical-align: top;padding-bottom: 0px;" /></a> &nbsp; <a href="" style="display: inline-block;color: #ccc;text-decoration: underline;" target="_new"> <img alt="Instagram" border="0" class="socialIcon" src="https://mosaico.io/templates/versafix-1/img/social_def/instagram_bw_ok.png" style="border: 0px;border-radius: 100%;display: inline-block;vertical-align: top;padding-bottom: 0px;" /></a> &nbsp; <a href="" style="display: inline-block;color: #ccc;text-decoration: underline;" target="_new"> <img alt="Youtube" border="0" class="socialIcon" src="https://mosaico.io/templates/versafix-1/img/social_def/youtube_bw_ok.png" style="border: 0px;border-radius: 100%;display: inline-block;vertical-align: top;padding-bottom: 0px;" /></a></td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!--[if (gte mso 9)|(lte ie 8)]></td><![endif]--><!--[if (gte mso 9)|(lte ie 8)]></tr></table><![endif]--></td>
+					</tr>
+				</tbody>
+			</table>
+			</div>
+			<!--[if (gte mso 9)|(lte ie 8)]></td></tr></table><![endif]--></td>
+		</tr>
+	</tbody>
+</table>
+<!-- footerBlock -->
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="ko_footerBlock_2" style="background-color: #ffffff;" width="100%">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#ffffff" style="background-color: #ffffff;" valign="top"><!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="570"><tr><td align="center" valign="top"><![endif]-->
+			<div class="oldwebkit" style="max-width: 570px;">
+			<table align="center" border="0" cellpadding="0" cellspacing="9" class="vb-container halfpad" style="border-collapse: separate;border-spacing: 9px;padding-left: 9px;padding-right: 9px;width: 100%;max-width: 570px;" width="570">
+				<tbody>
+					<tr>
+						<td class="long-text links-color" style="text-align: center; font-size: 13px; color: #919191; font-weight: normal; text-align: center; font-family: Arial, Helvetica, sans-serif;">
+						<p style="margin: 1em 0px;margin-bottom: 0px;margin-top: 0px;">Email sent to <a href="mailto:%5Bmail%5D" style="color: #ccc;text-decoration: underline;">[mail]</a></p>
+						</td>
+					</tr>
+					<tr>
+						<td style="text-align: center;"><a href="%5Bunsubscribe_link%5D" style="text-decoration: underline; color: #ffffff; text-align: center; font-size: 13px; font-weight: normal; font-family: Arial, Helvetica, sans-serif;" target="_new"><span style="color:#A9A9A9;">Unsubscribe</span></a></td>
+					</tr>
+				</tbody>
+			</table>
+			</div>
+			<!--[if (gte mso 9)|(lte ie 8)]></td></tr></table><![endif]--></td>
+		</tr>
+	</tbody>
+</table>
+<!-- /footerBlock --></center>
+</body>
+</html>
